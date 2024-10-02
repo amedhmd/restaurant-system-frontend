@@ -1,4 +1,4 @@
-GKMIT Restaurant :- Restaurant to order and find delicious food.
+ Restaurant :- Restaurant to order and find delicious food.
 
 Technology Used:-
 1.ReactJS(Frontend)
